@@ -1,0 +1,15 @@
+{
+    "header.home": "Home",
+    "header.about": "About",
+    "header.contact": "Contact",
+    "home.welcome": "Welcome!",
+    "home.subtitle": "This is a demo app",
+    "home.text": "Here you can see how to use React's i18n functionality.",
+    "about.title": "About Us",
+    "about.text": "We are a team of developers who create cool apps with React.",
+    "contact.title": "Contact Us",
+    "contact.address": "Address",
+    "contact.email": "Email",
+    "contact.phone": "Phone",
+    "footer.text": "© 2023 All rights reserved."
+}

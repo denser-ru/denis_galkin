@@ -1,0 +1,16 @@
+{
+    "header.title": "Título de la página",
+    "header.nav.home": "Inicio",
+    "header.nav.about": "Sobre nosotros",
+    "header.nav.contact": "Contactos",
+    "home.welcome": "¡Bienvenido!",
+    "home.subtitle": "Esta es una aplicación de demostración",
+    "home.text": "Aquí puede ver cómo funciona la internacionalización en React.",
+    "about.title": "Sobre nosotros",
+    "about.text": "Somos un equipo de desarrolladores que se dedica a crear aplicaciones interesantes en React.",
+    "contact.title": "Contactos",
+    "contact.address": "Dirección",
+    "contact.email": "Correo electrónico",
+    "contact.phone": "Teléfono",
+    "footer.text": "© 2023 Todos los derechos reservados."
+}

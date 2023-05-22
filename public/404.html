@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+      // получаем путь, запрошенный пользователем
+      var path = window.location.pathname;
+      // получаем префикс сайта, который нужно добавить к запрошенному пути
+      var prefix = '/denis_galkin/#' + path.replace('/denis_galkin', '');
+      
+      // перенаправляем на основной адрес с добавлением запрошенного пути и префикса
+      window.location.replace(window.location.origin + prefix);
+    </script>
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>

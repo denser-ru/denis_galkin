@@ -1,0 +1,37 @@
+{
+    "header": {
+        "home": "Inicio",
+        "name": "Denis Galkin",
+        "experience": "Experiencia Profesional",
+        "hobbies": "Aficiones",
+        "contacts": "Contactos",
+        "support": "Soporte",
+        "toDark": "Cambiar a tema oscuro",
+        "toLight": "Cambiar a tema claro"
+    },
+    "contacts": {
+        "title": "Contactos",
+        "description": "Los contactos en mi sitio web son como un rompecabezas que aún no está armado. Pero no se preocupe, ya estoy recopilando las piezas y pronto formarán una hermosa imagen de la comunicación conmigo."
+    },
+    "home": {
+        "welcome": "Mi página personal",
+        "description": "Mi sitio web no es solo un lugar donde puedo compartir mis pensamientos y logros, sino también un portal que conduce al mundo de mis intereses. Aquí me presento como una persona con una amplia gama de pasatiempos y pasiones, y estoy listo para compartirlos con el mundo.<br /><br />Me apasiona la ciencia ficción, la ciencia, la programación, la música y los deportes, y también me dedico profesionalmente a la energía y la enseñanza de baile. Además, he sido cofundador de varios proyectos empresariales, como un servicio de autos y una marca para la subcultura del parkour y el workout.<br /><br />También me encanta viajar y aprender idiomas extranjeros, y aquí encontrarás todo sobre mis aventuras en diferentes países y mi experiencia en el aprendizaje de idiomas.<br /><br />Espero que este sitio web se convierta en un lugar de encuentro para las personas que comparten mis intereses y me ayude a encontrar nuevos amigos, socios y oportunidades de crecimiento personal y profesional.<br /><br />¡Bienvenidos a mi hogar virtual!"
+    },
+    "hobbies": {
+        "title": "Aficiones",
+        "description": "¿Crees que mis intereses se reducen a una lista de películas de James Bond y una colección de gatitos? ¡Estoy trabajando en una lista más convincente que incluirá mis libros, películas, música, viajes, comida y otras aficiones favoritas! Manténganse en sintonía para saber más."
+    },
+    "experience": {
+        "title": "Experiencia Profesional",
+        "description": "Sé que están ansiosos por saber sobre mi carrera profesional, pero por el momento estoy ocupado ampliando mi portafolio y preparándome para nuevos proyectos. Pero no se preocupen, pronto compartiré todos los detalles. ¡Manténganse en contacto!"
+    },
+    "support": {
+        "title": "Soporte",
+        "DearCustomer": "Estimado cliente valioso,",
+        "HigherPower": "En este momento, lamentamos informarle que nuestro equipo de soporte está buscando ayuda de una fuerza superior.",
+        "Patience": "Le pedimos amablemente su paciencia y comprensión mientras navegamos juntos en estos tiempos desafiantes.",
+        "CatPicture": "Mientras tanto, disfrute de esta imagen de un gato:",
+        "CatAltText": "gatito lindo"
+    },
+    "footerText": "© 2023 My Awesome Company. Todos los derechos reservados."
+}

@@ -1,0 +1,16 @@
+{
+  "header.title": "Заголовок страницы",
+  "header.nav.home": "Главная",
+  "header.nav.about": "О нас",
+  "header.nav.contact": "Контакты",
+  "home.welcome": "Добро пожаловать!",
+  "home.subtitle": "Это демонстрационное приложение",
+  "home.text": "Здесь вы можете увидеть, как работает мультиязычность в React.",
+  "about.title": "О нас",
+  "about.text": "Мы - команда разработчиков, занимающаяся созданием интересных приложений на React.",
+  "contact.title": "Контакты",
+  "contact.address": "Адрес",
+  "contact.email": "Электронная почта",
+  "contact.phone": "Телефон",
+  "footer.text": "© 2023 Все права защищены."
+}
